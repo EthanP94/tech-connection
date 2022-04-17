@@ -23,8 +23,8 @@ const sess = {
 },
     resave: true,
     rolling: true,
-  saveUninitialized: true,
-  store: new SequelizeStore({
+    saveUninitialized: true,
+    store: new SequelizeStore({
     db: sequelize
   }),
 };
