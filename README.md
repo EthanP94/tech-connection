@@ -5,8 +5,9 @@
   A mysql database and CMS-style Blog built using Model View Controller (MVC) paradigm. Built using MySQL2, Express, Sequelize, Bulma, Handlebars and dotenv.
 
   ## Application Deployment
-
-
+  
+  This application is also be deployed to Heroku. 
+  Click [here](https://git.heroku.com/quiet-shelf-22355.git) to go to Heroku.
 
   ## Table of Contents
   * [Installation](#installation)
