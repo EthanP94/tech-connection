@@ -1,7 +1,7 @@
 {
   "name": "tech-connection",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)",
   "main": "server.js",
   "scripts": {
     "test": "jest",
