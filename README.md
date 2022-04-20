@@ -7,7 +7,7 @@
   ## Application Deployment
   
   This application is also be deployed to Heroku. 
-  Click [here](https://git.heroku.com/quiet-shelf-22355.git) to go to Heroku.
+  Click [here](https://quiet-shelf-22355.herokuapp.com/) to go to Heroku.
 
   ## Table of Contents
   * [Installation](#installation)
