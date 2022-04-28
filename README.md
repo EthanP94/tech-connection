@@ -9,6 +9,8 @@
   This application is also be deployed to Heroku. 
   Click [here](https://quiet-shelf-22355.herokuapp.com/) to go to Heroku.
 
+   ![](./public/images/tech-connection-ss.png)
+
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
